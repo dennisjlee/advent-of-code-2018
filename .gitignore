@@ -1,2 +1,4 @@
 inputs/
 *.pyc
+venv
+.idea
